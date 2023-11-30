@@ -2,7 +2,7 @@ package brasilapi
 
 const (
 	// urlBrasilAPI base url from BrasilApi
-	urlBrasilAPI = "https://brasilapi.com.br/api/cep/v2/"
+	urlBrasilAPI = "https://brasilapi.com.br/api/cep/v1/"
 )
 
 // ZipCode models the data of a zip code
